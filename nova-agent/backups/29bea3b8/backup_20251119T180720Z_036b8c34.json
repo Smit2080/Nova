@@ -1,9 +1,0 @@
-{
-  "backup_id": "20251119T180720Z_036b8c34",
-  "request_id": "29bea3b8",
-  "timestamp": "20251119T180720Z",
-  "zip_path": "D:\\NovaProject\\nova-agent\\backups\\29bea3b8\\backup_20251119T180720Z_036b8c34.zip",
-  "repo_root": "D:\\NovaProject\\nova-agent\\integrated",
-  "targets": [],
-  "note": "backup before integrate"
-}
