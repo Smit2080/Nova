@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "message": "hii",
+    "ts": "2025-12-12T07:28:06.701712"
+  },
+  {
+    "role": "agent",
+    "message": "It seems like we're starting with a friendly greeting. Is there something specific you'd like to talk about or perhaps a coding problem you'd like help with?",
+    "ts": "2025-12-12T07:28:07.625503"
+  }
+]

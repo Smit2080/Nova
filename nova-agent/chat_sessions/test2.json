@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "message": "Nova, internet se research kar ke best logging tools bata",
+    "ts": "2025-11-20T11:55:26.987349"
+  },
+  {
+    "role": "agent",
+    "message": "I received: 'Nova, internet se research kar ke best logging tools bata'. You can ask me to plan, prepare, apply_patch, run_tests, or merge.",
+    "ts": "2025-11-20T11:55:26.987361"
+  }
+]

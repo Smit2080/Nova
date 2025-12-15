@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "hello",
+    "ts": "2025-11-28T05:46:59.338735"
+  },
+  {
+    "role": "agent",
+    "message": "It seems like we're having a friendly greeting. Is there something specific you'd like to discuss or work on, or would you like me to suggest some topics?",
+    "ts": "2025-11-28T05:47:00.061731"
+  },
+  {
+    "role": "user",
+    "message": "are you there",
+    "ts": "2025-11-28T05:47:29.461800"
+  },
+  {
+    "role": "agent",
+    "message": "I'm here and ready to assist. I'll respond as soon as I can. What's on your mind? Do you have a question, a problem, or a project you'd like to work on?",
+    "ts": "2025-11-28T05:47:30.070608"
+  }
+]

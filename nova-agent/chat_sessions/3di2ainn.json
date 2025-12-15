@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "message": "hi",
+    "ts": "2025-11-25T12:35:43.045837"
+  },
+  {
+    "role": "agent",
+    "message": "[Remote AI error: Error code: 400 - {'error': {'message': 'The model `llama-3.3-70b-specdec` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}]\nI received: 'hi'",
+    "ts": "2025-11-25T12:35:43.496247"
+  }
+]

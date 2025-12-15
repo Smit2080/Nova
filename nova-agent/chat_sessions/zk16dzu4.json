@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "hey",
+    "ts": "2025-11-25T17:30:48.382339"
+  },
+  {
+    "role": "agent",
+    "message": "No LLM provider configured. Set at least one of GROQ_API_KEY, DEEPSEEK_API_KEY, or OPENROUTER_API_KEY.",
+    "ts": "2025-11-25T17:30:48.428392"
+  },
+  {
+    "role": "user",
+    "message": "hwy",
+    "ts": "2025-11-25T17:30:48.454206"
+  },
+  {
+    "role": "agent",
+    "message": "No LLM provider configured. Set at least one of GROQ_API_KEY, DEEPSEEK_API_KEY, or OPENROUTER_API_KEY.",
+    "ts": "2025-11-25T17:30:48.498608"
+  }
+]

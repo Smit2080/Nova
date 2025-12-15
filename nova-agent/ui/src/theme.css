@@ -1,0 +1,17 @@
+html.light {
+  --bg: #f5f5f5;
+  --primary: #00aaff;
+  background: var(--bg);
+}
+
+html.dark {
+  --bg: #050505;
+  --primary: #66ffcc;
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--primary);
+  transition: 0.25s ease-in-out;
+}

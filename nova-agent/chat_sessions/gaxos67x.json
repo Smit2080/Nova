@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "message": "HII NOVA",
+    "ts": "2025-11-26T04:25:27.749354"
+  },
+  {
+    "role": "agent",
+    "message": "What can I help you with today? Coding, architecture, or automation?",
+    "ts": "2025-11-26T04:25:30.019006"
+  }
+]

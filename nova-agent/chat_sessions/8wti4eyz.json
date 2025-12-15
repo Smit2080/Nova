@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "hey",
+    "ts": "2025-11-28T05:24:42.589891"
+  },
+  {
+    "role": "agent",
+    "message": "LLM error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "ts": "2025-11-28T05:24:43.322347"
+  },
+  {
+    "role": "user",
+    "message": "hey",
+    "ts": "2025-11-28T05:24:49.463820"
+  },
+  {
+    "role": "agent",
+    "message": "LLM error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "ts": "2025-11-28T05:24:49.771107"
+  }
+]

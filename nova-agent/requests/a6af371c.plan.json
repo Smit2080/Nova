@@ -1,0 +1,12 @@
+{
+  "request_id": "a6af371c",
+  "intent": "demo",
+  "plan": [
+    "create workspace for demo/hello.py",
+    "backup target files for demo/hello.py",
+    "write code into sandbox",
+    "run syntax tests",
+    "ask for approval to merge"
+  ],
+  "created": "2025-11-19T16:33:43.327333"
+}

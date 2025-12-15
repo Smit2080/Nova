@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "message": "TEXT_HERE",
+    "ts": "2025-11-20T12:50:24.592185"
+  },
+  {
+    "role": "agent",
+    "message": "I received: 'TEXT_HERE'. You can ask me to plan, prepare, apply_patch, run_tests, or merge.",
+    "ts": "2025-11-20T12:50:24.592203"
+  }
+]

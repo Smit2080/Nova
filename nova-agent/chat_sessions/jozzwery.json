@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "hii",
+    "ts": "2025-11-27T09:35:32.807269"
+  },
+  {
+    "role": "agent",
+    "message": "LLM error: [Errno 11001] getaddrinfo failed",
+    "ts": "2025-11-27T09:35:36.230996"
+  },
+  {
+    "role": "user",
+    "message": "bro'",
+    "ts": "2025-11-27T09:35:40.131094"
+  },
+  {
+    "role": "agent",
+    "message": "LLM error: [Errno 11001] getaddrinfo failed",
+    "ts": "2025-11-27T09:35:43.591348"
+  }
+]

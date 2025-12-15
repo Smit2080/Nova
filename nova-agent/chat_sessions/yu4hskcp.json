@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "errror",
+    "ts": "2025-11-25T14:36:21.889997"
+  },
+  {
+    "role": "agent",
+    "message": "It seems like you've encountered an error. Can you provide more details about the error you're experiencing? This will help me better understand the issue and assist you more effectively. Please provide the following information:\n\n1. The error message you're seeing (if any)\n2. The context in which the error occurred (e.g., a specific function, method, or code snippet)\n3. Any relevant code or stack traces you've encountered\n\nI'll do my best to help you troubleshoot and resolve the issue.",
+    "ts": "2025-11-25T14:36:22.482639"
+  },
+  {
+    "role": "user",
+    "message": "yes",
+    "ts": "2025-11-25T14:36:26.103942"
+  },
+  {
+    "role": "agent",
+    "message": "LLM error: Error code: 400 - {'error': {'message': \"'messages.2' : discriminator property 'role' has invalid value\", 'type': 'invalid_request_error'}}",
+    "ts": "2025-11-25T14:36:26.247324"
+  }
+]
